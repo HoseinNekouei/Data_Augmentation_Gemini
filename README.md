@@ -19,7 +19,13 @@ This Jupyter Notebook demonstrates how to perform data augmentation using Google
 git clone https://github.com/HoseinNekouei/Data_Augmentation_Gemini.git
 ```
 
-2. Obtain your API key for Google's Gemini and configure it:
+2. Install the required dependencies:
+
+```
+pip install datasets transformers
+```
+
+3. Obtain your API key for Google's Gemini and configure it:
 
 ```python
 import google.generativeai as genai
@@ -61,11 +67,11 @@ print(response)
 
 ## Contributions
 
-Contributions to enhance this notebook or improve its functionality are welcome! Please fork the repository, make your changes, and submit a pull request.
+Contributions to enhance this notebook or improve its functionality are welcome! Please fork the repository, make changes, and submit a pull request.
 
 ## License
 
-This project is licensed under the [MIT License]([LICENSE](https://github.com/HoseinNekouei/Data_Augmentation_Gemini/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/HoseinNekouei/Data_Augmentation_Gemini/blob/main/LICENSE).
 
 ---
 
