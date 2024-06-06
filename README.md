@@ -73,6 +73,3 @@ Contributions to enhance this notebook or improve its functionality are welcome!
 
 This project is licensed under the [MIT License](https://github.com/HoseinNekouei/Data_Augmentation_Gemini/blob/main/LICENSE).
 
----
-
-Feel free to customize the README by adding more sections or details specific to your notebook.
