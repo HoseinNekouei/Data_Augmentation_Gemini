@@ -1,7 +1,3 @@
-Since the provided link is to a Jupyter Notebook file hosted on GitHub, you can create a README.md file in your repository to describe the content and usage of the notebook. Here's a template for your README.md:
-
----
-
 # Gemini Data Augmentation Notebook
 
 This Jupyter Notebook demonstrates how to perform data augmentation using Google's Gemini model to address imbalanced datasets. By leveraging Gemini's powerful generative capabilities, we can effectively augment datasets to improve model performance, particularly in tasks like sentiment analysis, where class imbalances are common.
@@ -23,13 +19,7 @@ This Jupyter Notebook demonstrates how to perform data augmentation using Google
 git clone https://github.com/HoseinNekouei/Data_Augmentation_Gemini.git
 ```
 
-2. Install the required dependencies:
-
-```
-pip install -r requirements.txt
-```
-
-3. Obtain your API key for Google's Gemini and configure it:
+2. Obtain your API key for Google's Gemini and configure it:
 
 ```python
 import google.generativeai as genai
